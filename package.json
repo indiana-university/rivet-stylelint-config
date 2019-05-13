@@ -1,0 +1,26 @@
+{
+  "name": "stylelint-config-rivet",
+  "version": "1.0.0",
+  "description": "A stylelint configuration set for Rivet-related projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indiana-university/rivet-stylelint-config.git"
+  },
+  "author": "Rachel O'Connor",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/indiana-university/rivet-stylelint-config/issues"
+  },
+  "homepage": "https://github.com/indiana-university/rivet-stylelint-config#readme",
+  "peerDependencies": {
+    "stylelint": "^10.0.1"
+  },
+  "dependencies": {
+    "stylelint": "^10.0.1",
+    "stylelint-config-standard": "^18.3.0"
+  }
+}
